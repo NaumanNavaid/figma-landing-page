@@ -1,5 +1,5 @@
 import React from 'react'
-import Link from 'next/link'
+
 import Header from './component/header'
 import Navbar from './component/navbar'
 import Image from 'next/image'
@@ -43,7 +43,7 @@ className='lg:h-auto lg:w-[640px] sm:w-full sm:h-auto object-contain'
 Trusted by 2000+ companies <br /> worldwide.
 </div>
 <div className='font-bold text-lg sm:flex mt-8 lg:hidden'>
-Trusted by the world's best companies <br />[social proof to build credibility]
+Trusted by the world&apos;s best companies <br />[social proof to build credibility]
 </div>
 <div className='sm:mb-16'>
    <Image
